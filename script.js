@@ -1,0 +1,6 @@
+alert("Hello Bibi ko!")
+alert("I want to take this opportunity to tell you how grateful I am to have you as a friend and a sister.")
+alert("You're one of the kindest people I've ever been lucky enough to know.")
+alert("I am always thankful for having you, you'll always be one of my very favorite people.")
+alert("As you read this message, \nI am praying for God to lift you and grant you all the miracles and wishes you deserve. ")
+alert("Happy Blessed Birthday to you, bibi Ellen ko! \nI love you so much! 🤍")
